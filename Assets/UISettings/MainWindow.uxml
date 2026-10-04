@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" editor-extension-mode="False">
+  <ui:VisualElement>
+    <ui:Label text="Main Window" />
+    <ui:Button text="Click Me" />
+  </ui:VisualElement>
+</ui:UXML>
